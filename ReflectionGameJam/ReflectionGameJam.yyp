@@ -36,6 +36,12 @@
   "name":"ReflectionGameJam",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BackgroundSprite","path":"sprites/BackgroundSprite/BackgroundSprite.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"Walls","path":"sprites/Walls/Walls.yy",},},
+    {"id":{"name":"Water","path":"sprites/Water/Water.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
